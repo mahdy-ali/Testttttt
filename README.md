@@ -24,7 +24,7 @@
   "تصویر_کپی": "https://www.uplooder.net/img/image/8/e37f6db2623fce817a37539f03e56566/cooy-clide.png",
   "فیلم_ماشین_حساب": "https://my.uupload.ir/p/nWbR07V",
   "متن_فیلم_ماشین_حساب": "آموزش ساخت ماشین حساب",
-  "بروزرسانی": "برنامه شما کاملا بروز است",
+  "بروزرسانی": "بروز نشود",
   "پایتون_قسمت۱": "https://my.uupload.ir/p/JGNEE2e",
   "پایتون_قسمت۲": "https://my.uupload.ir/p/Vb5VW0b",
   "پایتون_قسمت۳": "https://my.uupload.ir/p/5gN6R15o",
@@ -225,11 +225,10 @@
   "دکمه_بعدا": "! بعدا این توافق نامه را تایید میکنم !",
   "آموزش_ویدیوپلیر": "https://my.uupload.ir/p/k1Dv9166",
   "آموزش_زوم_عکس": "https://my.uupload.ir/p/aRxDKGoL",
-  "آموزش_پی_دی_اف_خوان": "",
+  "آموزش_پی_دی_اف_خوان": "https://my.uupload.ir/p/wObdXorW",
   "آموزش_رفتن_به_سایت": "https://my.uupload.ir/p/wObdXorW",
   "آموزش_باتون_دایره": "https://my.uupload.ir/p/JGpRzp2",
   "آموزش_کاستوم_دیباگ": "https://my.uupload.ir/p/2k18xvyx",
   "آموزش_دیالوگ_یکبارمصرف": "https://my.uupload.ir/p/e6oV4zw",
-  "متن_فیلم_منوزیرین۲": "آموزش ساخت منو زیرین",
-  "مسدود_سازی": "خیر"
+  "تغییر_عکس_منو۴": "ثابت"
 }
