@@ -3,7 +3,7 @@
   "تصویر": "https://www.uplooder.net/img/image/12/541f21370c1c48d10a6cbece267ac380/%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B4%DB%B1%DB%B6-%DB%B1%DB%B8%DB%B0%DB%B3%DB%B5%DB%B0.jpg",
   "کانال": "Sketchwarre",
   "فیلم_منو_زیرین": "https://my.uupload.ir/p/kVGGaOX",
-  "فیلم_پشتیبانی_ایمیل": "https://my.uupload.ir/p/dR20aXE",
+  "فیلم_پشتیبانی_ایمیل": "https://my.uupload.ir/p/kVGGaOX",
   "فیلم_چرخش_متن": "https://my.uupload.ir/p/nNnN0gV",
   "فیلم_باتون_دایره": "https://my.uupload.ir/p/JGpRzp2",
   "باتون_دوکاره": "https://my.uupload.ir/p/eOZmXABr",
@@ -11,7 +11,7 @@
   "ساخت_پیامرسان": "https://my.uupload.ir/p/vxDL8Ob",
   "دفترچه_باقابلیت_ذخیره": "https://my.uupload.ir/p/N7Zbnko",
   "متن_فیلم_منوزیرین": "آموزش ساخت منو زیرین",
-  "متن_پشتیبانی_ایمیل": "آموزش ارسال ایمیل به پشتیبانی با کلید",
+  "متن_پشتیبانی_ایمیل": "آموزش ساخت منو زیرین",
   "متن_چرخش_متن": "آموزش ساخت برنامه چرخش و تغییر سایز متن",
   "متن_باتون_دایره": "آموزش ساخت کلید گوشه گرد",
   "متن_باتون_دوکاره": "آموزش ساخت حالت شب پیشرفته",
@@ -85,7 +85,7 @@
   "باتون__۴۱": "",
   "باتون_۳۵": "نمایش",
   "باتون_۳۶": "نمایش",
-  "باتون_۳۷": "پنهان",
+  "باتون_۳۷": "نمایش",
   "باتون_۳۸": "نمایش",
   "باتون_۳۹": "نمایش",
   "باتون_۴۰": "نمایش",
@@ -237,5 +237,6 @@
   "دانلود_آموزش_رفتن_به_سایت": "https://rizy.ir/Download-Open_Site",
   "دانلود_آموزش_باتون_دایره": "https://rizy.ir/Download-Button_Circle",
   "دانلود_آموزش_کاستوم_دیباگ": "https://rizy.ir/Download-Custom_Debug",
-  "دانلود_آموزش_دیالوگ_یکبارمصرف": "https://rizy.ir/Download-Dialog_OneTime"
+  "دانلود_آموزش_دیالوگ_یکبارمصرف": "https://rizy.ir/Download-Dialog_OneTime",
+  "پشتیبان_درون_برنامه ای": "https://www.goftino.com/c/ubLW9b"
 }
