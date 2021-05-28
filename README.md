@@ -238,5 +238,7 @@
   "دانلود_آموزش_باتون_دایره": "https://rizy.ir/Download-Button_Circle",
   "دانلود_آموزش_کاستوم_دیباگ": "https://rizy.ir/Download-Custom_Debug",
   "دانلود_آموزش_دیالوگ_یکبارمصرف": "https://rizy.ir/Download-Dialog_OneTime",
-  "پشتیبان_درون_برنامه ای": "https://www.goftino.com/c/ubLW9b"
+  "پشتیبان_درون_برنامه ای": "https://www.goftino.com/c/ubLW9b",
+  "عکس_آموزش": "https://s3.uupload.ir/files/toolsiner/Images/%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C.jpeg",
+  "متن_آموزش": "sam oo aliekoom"
 }
